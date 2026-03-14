@@ -1,175 +1,174 @@
-# 👋 Hi, I'm Samadhan Mistari
+# 👋 Hi, I'm **Samadhan Mistari**
 
-🚀 Cloud & DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD
+🚀 **Cloud & DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD**
 
-Senior Cloud & DevOps Engineer with **5+ years of IT experience**, including **3+ years working with multi-cloud environments (AWS & Azure)**.
-I specialize in **Infrastructure as Code, CI/CD automation, cloud architecture, and platform reliability**.
+Senior DevOps & Cloud Engineer with **5+ years of IT experience**, specializing in **cloud infrastructure, automation, and DevOps practices** across AWS and Azure environments.
 
-I enjoy designing **scalable, secure, and automated cloud infrastructure** using DevOps best practices.
+I build **scalable, secure, and automated cloud platforms** using Infrastructure as Code, containerization, and CI/CD pipelines.
 
 ---
 
-# ☁️ Cloud & DevOps Skills
+# ☁️ Cloud & DevOps Tech Stack
 
-## Cloud Platforms
+### ☁️ Cloud Platforms
 
-* AWS
-* Microsoft Azure
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
 
-## Infrastructure as Code
+### 🧱 Infrastructure as Code
 
-* Terraform
-* CloudFormation
-* AWS Image Builder
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-red)
 
-## CI/CD
+### ⚙️ CI/CD & Automation
 
-* Jenkins
-* GitHub Actions
-* Azure DevOps Pipelines
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=github)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue)
 
-## Containers & Orchestration
+### 🐳 Containers & Orchestration
 
-* Docker
-* Kubernetes
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 
-## Monitoring & Logging
+### 📊 Monitoring & Observability
 
-* Prometheus
-* Grafana
-* AWS CloudWatch
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-orange)
 
-## Automation & Scripting
+### 🧠 Automation & Scripting
 
-* Python
-* Bash
-* Ansible
+![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black)
+
+---
+
+# 🏗 DevOps Portfolio Projects
+
+## 🚀 Terraform AWS Infrastructure
+
+Production-ready AWS infrastructure using Terraform modules.
+
+**Architecture includes**
+
+• VPC
+• Public & Private Subnets
+• Internet Gateway
+• NAT Gateway
+• Route Tables
+• Security Groups
+• EC2 Instances
+• Remote Terraform State (S3 backend)
+
+Repository
+👉 terraform-aws-infrastructure
+
+---
+
+## 🔄 CI/CD Pipeline Automation
+
+Automated build and deployment pipeline.
+
+**Tech Stack**
+
+• Jenkins
+• Docker
+• GitHub
+• AWS
+
+Features
+
+• Automated builds
+• Container image creation
+• Continuous deployment pipeline
+
+---
+
+## ☸ Kubernetes Deployment
+
+Containerized application deployed on Kubernetes cluster.
+
+**Tools Used**
+
+• Docker
+• Kubernetes
+• Helm
+• CI/CD Integration
 
 ---
 
 # 🏢 Professional Experience
 
-## Cloud Specialist
+### ☁️ Cloud Specialist
 
 **Piramal Finance (Swan Solutions Contract)**
 📍 Mumbai | Jul 2025 – Present
 
-Key Contributions:
+Key Achievements
 
-• Designed and optimized **AWS & Azure infrastructure** across hybrid environments
-• Automated patching using **AWS Lambda + Systems Manager Patch Manager**
-• Built **Golden AMI automation using Ansible and AWS Image Builder**
-• Provisioned infrastructure using **Infrastructure as Code (CloudFormation)**
-• Managed **disaster recovery operations** for production workloads
-• Led **AWS cost optimization initiatives** using Savings Plans and resource rightsizing
-• Enforced governance using **AWS Organizations and Service Control Policies**
+• Managed **multi-cloud infrastructure (AWS & Azure)**
+• Automated **patching using AWS Lambda + Systems Manager**
+• Built **Golden AMI pipelines using AWS Image Builder + Ansible**
+• Implemented **Infrastructure as Code using CloudFormation**
+• Performed **Disaster Recovery operations for production workloads**
+• Optimized AWS cost using **Savings Plans and resource rightsizing**
+• Enforced governance using **AWS Organizations and SCP policies**
 
 ---
 
-## Cloud & DevOps Engineer
+### ☁️ Cloud & DevOps Engineer
 
 **LTIMindtree (Micropoint Computers Contract)**
 📍 Mumbai | Apr 2023 – Mar 2025
 
-Responsibilities included:
+Responsibilities
 
-• Managing **AWS and Azure infrastructure**
-• Building **CI/CD pipelines for application deployment**
-• Automating infrastructure provisioning
-• Implementing **monitoring and logging solutions**
-
----
-
-# 📂 Featured DevOps Projects
-
-## Terraform AWS Infrastructure
-
-Production-style Terraform project creating AWS infrastructure.
-
-Features:
-
-* VPC
-* Public & Private Subnets
-* Internet Gateway
-* NAT Gateway
-* Route Tables
-* Security Groups
-* EC2 Instances
-* Remote state in S3
-
-Repository:
-👉 https://github.com/SamadhanMistari/terraform-aws-infrastructure
-
----
-
-## CI/CD Pipeline Project
-
-Automated build and deployment pipeline.
-
-Tools Used:
-
-* Jenkins
-* Docker
-* GitHub
-* AWS
-
-Features:
-
-* Automated build
-* Containerized deployment
-* CI/CD pipeline integration
-
----
-
-## Kubernetes Deployment Project
-
-Containerized application deployed on Kubernetes cluster.
-
-Technologies:
-
-* Docker
-* Kubernetes
-* Helm
-* CI/CD integration
+• Managed cloud infrastructure on AWS & Azure
+• Built CI/CD pipelines for application deployment
+• Automated infrastructure provisioning
+• Implemented monitoring and alerting solutions
 
 ---
 
 # 📜 Certifications
 
-Microsoft Certified:
-
-✔ AZ-900 — Azure Fundamentals
-✔ AZ-104 — Azure Administrator
-✔ AZ-400 — Azure DevOps Engineer
+✔ Microsoft Certified: **AZ-900 – Azure Fundamentals**
+✔ Microsoft Certified: **AZ-104 – Azure Administrator**
+✔ Microsoft Certified: **AZ-400 – Azure DevOps Engineer**
 
 ---
 
-# 🚀 Currently Working On
-
-• Advanced Terraform AWS modules
-• Kubernetes production deployments
-• DevOps automation portfolio projects
-• Cloud cost optimization strategies
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamadhanMistari\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamadhanMistari\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔥 DevOps Focus Areas
+
+• Cloud Infrastructure Architecture
+• Infrastructure as Code (Terraform)
+• CI/CD Pipeline Automation
+• Kubernetes Platform Engineering
+• Monitoring & Observability
+• Cloud Cost Optimization
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn
+💼 LinkedIn
 https://linkedin.com/in/your-linkedin
 
-Email
+📧 Email
 [samadhanmistari4@gmail.com](mailto:samadhanmistari4@gmail.com)
 
-GitHub
+🐙 GitHub
 https://github.com/SamadhanMistari
 
 ---
 
-⭐ *Always learning, always automating, always improving cloud infrastructure.*
+⭐ *“Automate everything, scale everything, monitor everything.”*
