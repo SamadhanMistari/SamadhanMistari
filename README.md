@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Samadhan Mistari**
+# 👋 Hi, I'm **Samadhan**
 
 🚀 **Cloud & DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD**
 
